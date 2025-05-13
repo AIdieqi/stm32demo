@@ -1,0 +1,6 @@
+/home/lsh/apps/stm32/cubemx_cmake/dome/CMakeFiles/dome.dir
+/home/lsh/apps/stm32/cubemx_cmake/dome/CMakeFiles/edit_cache.dir
+/home/lsh/apps/stm32/cubemx_cmake/dome/CMakeFiles/rebuild_cache.dir
+/home/lsh/apps/stm32/cubemx_cmake/dome/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/lsh/apps/stm32/cubemx_cmake/dome/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/lsh/apps/stm32/cubemx_cmake/dome/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
