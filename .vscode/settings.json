@@ -1,0 +1,17 @@
+{
+    // 强制使用CMake配置
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    
+    // 自动配置CMake
+    "cmake.configureOnOpen": true,
+    
+    // 指定ARM交叉编译器
+    "C_Cpp.default.compilerPath": "/usr/bin/arm-none-eabi-gcc",
+    
+    // 明确智能感知模式
+    "C_Cpp.intelliSenseMode": "linux-gcc-arm",
+    "C_Cpp.intelliSenseModeFallback": "gcc-arm",
+    "C_Cpp.default.customConfigurationVariables": {
+        "intelliSenseMode": "linux-gcc-arm"
+    }
+}
