@@ -23,5 +23,5 @@ int _write(int fd, char *pBuffer, int size)
 }
 
 
-# 使用方法
-# 将这个函数放到usart.c文件的用户代码区域中，然后在main.c文件中调用printf函数即可。main.c文件需要包含stdio.h头文件。
+// 使用方法
+ //将这个函数放到usart.c文件的用户代码区域中，然后在main.c文件中调用printf函数即可。main.c文件需要包含stdio.h头文件。

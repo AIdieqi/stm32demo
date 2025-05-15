@@ -11,7 +11,7 @@
             ],
             "name": "STM32",
             "intelliSenseMode": "linux-gcc-arm",
-            "compilerPath": "/home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin",
+            "compilerPath": "/home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin/arm-none-eabi-gcc",
             "cStandard": "c11",
             "cppStandard": "c++11"
         }
