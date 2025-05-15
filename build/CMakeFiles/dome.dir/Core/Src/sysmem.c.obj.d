@@ -1,0 +1,21 @@
+CMakeFiles/dome.dir/Core/Src/sysmem.c.obj: \
+ /home/lsh/apps/stm32/cubemx_cmake/dome/Core/Src/sysmem.c \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/errno.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/errno.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/reent.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/_ansi.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/newlib.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/_newlib_version.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/config.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/machine/ieeefp.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/features.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/cdefs.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/machine/_default_types.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/_types.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/machine/_types.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/lock.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/stdint.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/_intsup.h \
+ /home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/arm-none-eabi/include/sys/_stdint.h

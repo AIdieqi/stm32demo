@@ -2,15 +2,18 @@
     "version": 4,
     "configurations": [
         {
-            /** 
-             * ms-vscode.cmake-tools plugin should be installed.
-             * 
-             * It provides data for C/C++ plugin,
-             * such as include paths, browse paths, defines, etc.
-             */
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "USE_HAL_DRIVER",
+                "STM32F103xB"
+            ],
             "name": "STM32",
-            "configurationProvider": "ms-vscode.cmake-tools",
-            "intelliSenseMode": "${default}"
+            "intelliSenseMode": "linux-gcc-arm",
+            "compilerPath": "/home/lsh/gnu_toolchain/xpack-arm-none-eabi-gcc-14.2.1-1.1/bin",
+            "cStandard": "c11",
+            "cppStandard": "c++11"
         }
     ]
 }

@@ -48,18 +48,19 @@ target_link_directories(${CMAKE_PROJECT_NAME} PRIVATE
 # Add sources to executable
 target_sources(${CMAKE_PROJECT_NAME} PRIVATE
     # Add user sources here
-    Core/Src/main.c
-    Core/Src/gpio.c
-    Core/Src/stm32f1xx_it.c  # 中断文件
-    ${CMAKE_CURRENT_LIST_DIR}/startup_stm32f103xb.s  # 启动文件
+    ${CMAKE_CURRENT_SOURCE_DIR}/Core/Src/main.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/Core/Src/gpio.c
+
+    ${CMAKE_CURRENT_SOURCE_DIR}/Core/Src/stm32f1xx_it.c  # 中断文件
+    ${CMAKE_CURRENT_SOURCE_DIR}/startup_stm32f103xb.s  # 启动文件
 )
 
 # Add include paths
 target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
     # Add user defined include paths
-    Core/Inc
-    Drivers/STM32F1xx_HAL_Driver/Inc
-    Drivers/CMSIS/Include
+    ${CMAKE_CURRENT_SOURCE_DIR}/Core/Inc
+    ${CMAKE_CURRENT_SOURCE_DIR}/Drivers/STM32F1xx_HAL_Driver/Inc
+    ${CMAKE_CURRENT_SOURCE_DIR}/Drivers/CMSIS/Include
 )
 
 # Add project symbols (macros)
