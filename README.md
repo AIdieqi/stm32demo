@@ -10,4 +10,4 @@
 
 当遇到CMake问题时，可以尝试运行以下清理命令：
 ```bash
-rm -rf ../build.ninja CMakeCache.txt CMakeFiles/
+rm -rf ./build/CMakeCache.txt ./buildCMakeFiles/ build.ninja
